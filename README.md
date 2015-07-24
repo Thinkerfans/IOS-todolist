@@ -1,2 +1,2 @@
 # IOS-todolist
-Todo list view
+a simple Todo manager app
